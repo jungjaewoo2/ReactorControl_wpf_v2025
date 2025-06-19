@@ -60,11 +60,56 @@
     <Compile Include="Popup\Popup_ProcessControl1.xaml.cs">
       <DependentUpon>Popup_ProcessControl1.xaml</DependentUpon>
     </Compile>
+    <Compile Include="View\UC_LRS1.xaml.cs">
+      <DependentUpon>UC_LRS1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_SRS1.xaml.cs">
+      <DependentUpon>UC_SRS1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_CAS1.xaml.cs">
+      <DependentUpon>UC_CAS1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_HWS.xaml.cs">
+      <DependentUpon>UC_HWS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_HWLS1.xaml.cs">
+      <DependentUpon>UC_HWLS1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_HGSS.xaml.cs">
+      <DependentUpon>UC_HGSS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_SWS1.xaml.cs">
+      <DependentUpon>UC_SWS1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_PCS1.xaml.cs">
+      <DependentUpon>UC_PCS1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_EWSS.xaml.cs">
+      <DependentUpon>UC_EWSS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_SCS1.xaml.cs">
+      <DependentUpon>UC_SCS1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_DWPF1.xaml.cs">
+      <DependentUpon>UC_DWPF1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_RWS.xaml.cs">
+      <DependentUpon>UC_RWS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_BP_ID.xaml.cs">
+      <DependentUpon>UC_BP_ID.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_SSDM.xaml.cs">
+      <DependentUpon>UC_SSDM.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\UC_CAR.xaml.cs">
       <DependentUpon>UC_CAR.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\UC_PC_ADS1.xaml.cs">
       <DependentUpon>UC_PC_ADS1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC_EPSS1.xaml.cs">
+      <DependentUpon>UC_EPSS1.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\UC_ProcessContrtol_Main.xaml.cs">
       <DependentUpon>UC_ProcessContrtol_Main.xaml</DependentUpon>
@@ -91,11 +136,71 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="View\UC_LRS1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_SRS1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_CAS1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_HWS.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_HWLS1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_HGSS.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_SWS1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_PCS1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_EWSS.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_SCS1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_DWPF1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_RWS.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_BP_ID.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_SSDM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\UC_CAR.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="View\UC_PC_ADS1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UC_EPSS1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -137,6 +242,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\*.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />

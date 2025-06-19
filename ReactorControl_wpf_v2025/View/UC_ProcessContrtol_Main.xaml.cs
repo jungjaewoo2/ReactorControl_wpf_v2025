@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using ReactorControl.View;
 
 namespace ReactorControl.View
 {
@@ -25,30 +26,87 @@ namespace ReactorControl.View
 			InitializeComponent();
 		}
 
-		private void Btn_CLD_Click(object sender, RoutedEventArgs e)
+		private void SSDM_Click(object sender, RoutedEventArgs e)
 		{
-
-        }
-
-		private void PumpObject_Click(object sender, MouseButtonEventArgs e)
-		{
-
+			MainWindow.mainWindow.ContentsArea.Content = new UC_SSDM();
 		}
 
-		private void Btn_SLD_Click(object sender, RoutedEventArgs e)
+		private void BPID_Click(object sender, RoutedEventArgs e)
 		{
-
+			MainWindow.mainWindow.ContentsArea.Content = new UC_BP_ID();
 		}
 
-		private void Btn_PID_Click(object sender, RoutedEventArgs e)
+		private void RWS_Click(object sender, RoutedEventArgs e)
 		{
-
+			MainWindow.mainWindow.ContentsArea.Content = new UC_RWS();
 		}
 
-        private void PC_Click(object sender, RoutedEventArgs e)
-        {
-            this.Content = new UC_PC_ADS1();
+		private void DWPF_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_DWPF1();
+		}
 
-        }
-    }
+		private void SCS_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_SCS1();
+		}
+
+		private void EWSS_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_EWSS();
+		}
+
+		private void PCS_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_PCS1();
+		}
+
+		private void SWS_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_SWS1();
+		}
+
+		private void HGSS_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_HGSS();
+		}
+
+		private void HWLS_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_HWLS1();
+		}
+
+		private void HWS_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_HWS();
+		}
+
+		private void CAS_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_CAS1();
+		}
+
+		private void SRS_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_SRS1();
+		}
+
+		private void LRS_Click(object sender, RoutedEventArgs e)
+		{
+			MainWindow.mainWindow.ContentsArea.Content = new UC_LRS1();
+		}
+
+		private void PC_Click(object sender, RoutedEventArgs e)
+		{
+			Button btn = sender as Button;
+			if (btn.Tag.ToString() == "ADS")
+			{
+				MainWindow.mainWindow.ContentsArea.Content = new UC_PC_ADS1();
+			}
+			else if (btn.Tag.ToString() == "EPSS")
+			{
+				MainWindow.mainWindow.ContentsArea.Content = new UC_EPSS1();
+			}
+		}
+	}
 }

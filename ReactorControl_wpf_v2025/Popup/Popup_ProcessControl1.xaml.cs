@@ -33,10 +33,12 @@ namespace ReactorControl.Popup
 		// 단계별 색상(실패)
 		SolidColorBrush solidColorBrush_fail = new SolidColorBrush(Color.FromRgb(0xFF, 0x30, 0x30));
 
-		String requestCommand = "_BLANK_";
-		String requestCommand_param1 = "_BLANK_";
-		String requestCommand_param2 = "_BLANK_";
-		String requestCommandStep = "wait";
+		#pragma warning disable CS0414 // 필드가 할당되었지만 사용되지 않음
+		private string requestCommand = "_BLANK_";
+		private string requestCommand_param1 = "_BLANK_";
+		private string requestCommand_param2 = "_BLANK_";
+		private string requestCommandStep = "wait";
+		#pragma warning restore CS0414
 
 		/// <summary>
 		/// 서버와 통신 상태: 0=대기중, 1=요청, 2=응답, 3=결과

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\uC7A1\uB2E4\uD55C \uD30C\uC77C\uB2E4\uC740\uB85C\uB4DC\\WPF\\ReactorControl_wpf_v2025_20250619\\ReactorControl_wpf_v2025\\",
+  "WorkspaceRootPath": "D:\\Project\\Zetta_Git\\ReactorControl_wpf_v2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|d:\\\uC7A1\uB2E4\uD55C \uD30C\uC77C\uB2E4\uC740\uB85C\uB4DC\\wpf\\reactorcontrol_wpf_v2025_20250619\\reactorcontrol_wpf_v2025\\reactorcontrol_wpf_v2025\\view\\uc_processcontrtol_main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|d:\\project\\zetta_git\\reactorcontrol_wpf_v2025\\reactorcontrol_wpf_v2025\\view\\uc_processcontrtol_main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|solutionrelative:reactorcontrol_wpf_v2025\\view\\uc_processcontrtol_main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|d:\\\uC7A1\uB2E4\uD55C \uD30C\uC77C\uB2E4\uC740\uB85C\uB4DC\\wpf\\reactorcontrol_wpf_v2025_20250619\\reactorcontrol_wpf_v2025\\reactorcontrol_wpf_v2025\\view\\uc_pc_ads1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|D:\\Project\\Zetta_Git\\ReactorControl_wpf_v2025\\reactorcontrol_wpf_v2025\\view\\uc_pc_ads1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8E15612C-4CEA-4B74-ACBF-F0E220A598BA}|ReactorControl_wpf_v2025\\ReactorControl.csproj|solutionrelative:reactorcontrol_wpf_v2025\\view\\uc_pc_ads1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -24,21 +24,20 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UC_PC_ADS1.xaml",
-              "DocumentMoniker": "D:\\\uC7A1\uB2E4\uD55C \uD30C\uC77C\uB2E4\uC740\uB85C\uB4DC\\WPF\\ReactorControl_wpf_v2025_20250619\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\View\\UC_PC_ADS1.xaml",
+              "DocumentMoniker": "D:\\Project\\Zetta_Git\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\View\\UC_PC_ADS1.xaml",
               "RelativeDocumentMoniker": "ReactorControl_wpf_v2025\\View\\UC_PC_ADS1.xaml",
-              "ToolTip": "D:\\\uC7A1\uB2E4\uD55C \uD30C\uC77C\uB2E4\uC740\uB85C\uB4DC\\WPF\\ReactorControl_wpf_v2025_20250619\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\View\\UC_PC_ADS1.xaml",
+              "ToolTip": "D:\\Project\\Zetta_Git\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\View\\UC_PC_ADS1.xaml",
               "RelativeToolTip": "ReactorControl_wpf_v2025\\View\\UC_PC_ADS1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-19T06:35:03.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T06:35:03.6Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UC_ProcessContrtol_Main.xaml",
-              "DocumentMoniker": "D:\\\uC7A1\uB2E4\uD55C \uD30C\uC77C\uB2E4\uC740\uB85C\uB4DC\\WPF\\ReactorControl_wpf_v2025_20250619\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\View\\UC_ProcessContrtol_Main.xaml",
+              "DocumentMoniker": "D:\\Project\\Zetta_Git\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\View\\UC_ProcessContrtol_Main.xaml",
               "RelativeDocumentMoniker": "ReactorControl_wpf_v2025\\View\\UC_ProcessContrtol_Main.xaml",
-              "ToolTip": "D:\\\uC7A1\uB2E4\uD55C \uD30C\uC77C\uB2E4\uC740\uB85C\uB4DC\\WPF\\ReactorControl_wpf_v2025_20250619\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\View\\UC_ProcessContrtol_Main.xaml",
+              "ToolTip": "D:\\Project\\Zetta_Git\\ReactorControl_wpf_v2025\\ReactorControl_wpf_v2025\\View\\UC_ProcessContrtol_Main.xaml",
               "RelativeToolTip": "ReactorControl_wpf_v2025\\View\\UC_ProcessContrtol_Main.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-19T05:08:29.56Z",

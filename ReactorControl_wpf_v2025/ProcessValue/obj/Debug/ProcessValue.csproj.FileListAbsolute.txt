@@ -950,3 +950,46 @@ D:\잡다한 파일다은로드\WPF\ReactorControl_wpf_v2025_20250619\ReactorCon
 D:\잡다한 파일다은로드\WPF\ReactorControl_wpf_v2025_20250619\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessV.21093B87.Up2Date
 D:\잡다한 파일다은로드\WPF\ReactorControl_wpf_v2025_20250619\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.dll
 D:\잡다한 파일다은로드\WPF\ReactorControl_wpf_v2025_20250619\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.pdb
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\ProcessValue.dll
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\ProcessValue.pdb
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Memory.dll
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Buffers.dll
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.csproj.AssemblyReference.cache
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\AlarmViewer.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\BarChartA.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\DigitalValueText.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\MenuMainButton.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PIDInfo.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PorcessValueBox.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValueText.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PVColorTextBox.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\RodStatus.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TextBox.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChart.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChartSignalSelect.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.cache
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue_MarkupCompile.lref
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\AlarmViewer.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\BarChartA.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\DigitalValueText.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\MenuMainButton.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PIDInfo.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PorcessValueBox.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValueText.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\PVColorTextBox.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\RodStatus.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TextBox.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\Themes\Generic.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChart.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\TrendChartSignalSelect.baml
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.g.resources
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.Properties.Resources.resources
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.csproj.GenerateResource.cache
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.csproj.CoreCompileInputs.cache
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessV.21093B87.Up2Date
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.dll
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\ProcessValue.pdb

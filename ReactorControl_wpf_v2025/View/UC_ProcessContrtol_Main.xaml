@@ -31,21 +31,21 @@
                     <Image Margin="289,35,289,10" Source="/Images/p1_base.png" VerticalAlignment="Top" Width="1258" Height="784" />
                     <Button Content="ADS (786)" Tag="ADS" Margin="479,102,1240,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="PC_Click"/>
                     <Button Content="PWMS (345)" Margin="790,158,929,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="LRS(782)" Margin="778,80,0,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="CAS (750)" Margin="541,213,1175,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="SRS (781)" Margin="1028,213,690,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="HWS (321)" Margin="419,340,1240,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="HWLS (347)" Margin="1111,377,608,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="GSS (405)" Margin="449,441,1270,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="PCS (331)" Margin="466,621,1253,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="EWSS (346)" Margin="753,638,964,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="SWS (720)" Margin="1179,578,538,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="SCS (710)" Margin="305,676,1414,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="EPSS" Margin="338,747,1381,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="SSDM (316)" Margin="579,748,1140,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="BP / ID" Margin="822,747,897,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="RWS (723)" Margin="1070,747,649,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
-                    <Button Content="DWPF (722)" Margin="1216,748,503,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold"/>
+                    <Button Content="LRS(782)" Margin="778,80,0,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="LRS_Click"/>
+                    <Button Content="CAS (750)" Margin="541,213,1175,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="CAS_Click"/>
+                    <Button Content="SRS (781)" Margin="1028,213,690,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="SRS_Click"/>
+                    <Button Content="HWS (321)" Margin="419,340,1240,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="HWS_Click"/>
+                    <Button Content="HWLS (347)" Margin="1111,377,608,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="HWLS_Click"/>
+                    <Button Content="GSS (405)" Margin="449,441,1270,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="HGSS_Click"/>
+                    <Button Content="PCS (331)" Margin="466,621,1253,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="PCS_Click"/>
+                    <Button Content="EWSS (346)" Margin="753,638,964,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="EWSS_Click"/>
+                    <Button Content="SWS (720)" Margin="1179,578,538,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="SWS_Click"/>
+                    <Button Content="SCS (710)" Margin="305,676,1414,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="SCS_Click"/>
+                    <Button Content="EPSS" Tag="EPSS" Margin="338,747,1381,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="PC_Click"/>
+                    <Button Content="SSDM (316)" Margin="579,748,1140,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="SSDM_Click"/>
+                    <Button Content="BP / ID" Margin="822,747,897,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="BPID_Click"/>
+                    <Button Content="RWS (723)" Margin="1070,747,649,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="RWS_Click"/>
+                    <Button Content="DWPF (722)" Margin="1216,748,503,0" VerticalAlignment="Top" Height="45" Width="115" FontSize="16" FontWeight="Bold" Click="DWPF_Click"/>
 
                     <Button Content="VSRCI (731)" Margin="1391,132,317,0" VerticalAlignment="Top" Height="50" Width="125" FontSize="14" FontWeight="Bold" HorizontalContentAlignment="Center"/>
                     <Button Content="    Reactor&#xA;Building (732)" Margin="1391,198,316,0" VerticalAlignment="Top" Height="50" Width="125" FontSize="14" FontWeight="Bold" HorizontalContentAlignment="Center"/>

@@ -24,12 +24,14 @@ namespace ReactorControl
     /// </summary>
     public partial class MainWindow : Window
     {
+        public static MainWindow mainWindow;
 
 		String CRLF = Environment.NewLine;
 
         public MainWindow()
         {
             InitializeComponent();
+            mainWindow = this;
 
 			// 전체화면으로 전환
 			//this.WindowState = WindowState.Maximized;

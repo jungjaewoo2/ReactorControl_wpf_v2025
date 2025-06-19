@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\잡다한 파일다은로드\WPF\ReactorControl_wpf_v2025_20250619\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\ProcessValue\obj\Debug\
 ProcessValue
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 131796629917
 
 32-1076565739
-19755412985
+191276557338
 AlarmViewer.xaml;BarChartA.xaml;DigitalValueText.xaml;MenuMainButton.xaml;PIDInfo.xaml;PorcessValueBox.xaml;ProcessValueText.xaml;PVColorTextBox.xaml;RodStatus.xaml;TextBox.xaml;Themes\Generic.xaml;TrendChart.xaml;TrendChartSignalSelect.xaml;
 
 False

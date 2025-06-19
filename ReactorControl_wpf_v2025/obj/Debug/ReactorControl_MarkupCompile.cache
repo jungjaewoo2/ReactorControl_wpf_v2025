@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\잡다한 파일다은로드\WPF\ReactorControl_wpf_v2025_20250619\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\obj\Debug\
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\obj\Debug\
 ReactorControl
 none
 false
 DEBUG;TRACE
-D:\잡다한 파일다은로드\WPF\ReactorControl_wpf_v2025_20250619\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\App.xaml
-7-2130653724
+D:\Project\Zetta_Git\ReactorControl_wpf_v2025\ReactorControl_wpf_v2025\App.xaml
+221929428679
 26-342200001
-12-49054785
-15-174572101
-MainWindow.xaml;Popup\Popup_ProcessControl1.xaml;View\UC_CAR.xaml;View\UC_PC_ADS1.xaml;View\UC_ProcessContrtol_Main.xaml;View\UC_RxPowerControl.xaml;View\UC_SSR.xaml;
+27259286824
+15-1061051282
+MainWindow.xaml;Popup\Popup_ProcessControl1.xaml;View\UC_LRS1.xaml;View\UC_SRS1.xaml;View\UC_CAS1.xaml;View\UC_HWS.xaml;View\UC_HWLS1.xaml;View\UC_HGSS.xaml;View\UC_SWS1.xaml;View\UC_PCS1.xaml;View\UC_EWSS.xaml;View\UC_SCS1.xaml;View\UC_DWPF1.xaml;View\UC_RWS.xaml;View\UC_BP_ID.xaml;View\UC_SSDM.xaml;View\UC_CAR.xaml;View\UC_PC_ADS1.xaml;View\UC_EPSS1.xaml;View\UC_ProcessContrtol_Main.xaml;View\UC_RxPowerControl.xaml;View\UC_SSR.xaml;
 
 False
 
